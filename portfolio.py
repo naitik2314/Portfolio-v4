@@ -4,7 +4,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
 from sklearn.metrics import precision_recall_curve
-from PIL import Image
 
 # Page Configuration
 st.set_page_config(page_title="Data Scientist Portfolio", page_icon=":guardsman:", layout="wide")
