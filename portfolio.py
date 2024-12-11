@@ -6,7 +6,7 @@ import numpy as np
 from sklearn.metrics import precision_recall_curve
 
 # Page Configuration
-st.set_page_config(page_title="Naitik SHah", page_icon=":guardsman:", layout="wide")
+st.set_page_config(page_title="Naitik Shah", page_icon=":guardsman:", layout="wide")
 
 # Header Section
 st.title("💻 Naitik Shah")
