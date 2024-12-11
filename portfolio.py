@@ -6,10 +6,10 @@ import numpy as np
 from sklearn.metrics import precision_recall_curve
 
 # Page Configuration
-st.set_page_config(page_title="Data Scientist Portfolio", page_icon=":guardsman:", layout="wide")
+st.set_page_config(page_title="Naitik SHah", page_icon=":guardsman:", layout="wide")
 
 # Header Section
-st.title("💻 Data Science Portfolio")
+st.title("💻 Naitik Shah")
 st.markdown("""
 Welcome to my **Data Science** portfolio! With 2+ years of hands-on experience in machine learning, predictive modeling, and data engineering,  
 I specialize in transforming data into actionable insights. My toolset includes Python, SQL, Databricks, Spark, and AWS.  
@@ -184,11 +184,11 @@ st.plotly_chart(fig)
 # Contact Section (Optional)
 st.header("📬 Contact")
 st.markdown("""
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com) or email at user@example.com.  
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/naitik-shah-49baba1a1/) or email at naitik@wayne.edu.  
 Let's discuss how we can collaborate to turn data into decisions!
 """)
 
 # Footer with Links
 st.markdown("""
-© 2024 Your Name. All rights reserved. | [GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com)
+© 2024 Naitik Shah. All rights reserved. | [GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com/in/naitik-shah-49baba1a1/)
 """)
